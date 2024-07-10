@@ -1,4 +1,4 @@
-// Recursion: function solves small probllem and then calls itself
+// Recursion: function solves small problem and then calls itself
     // each fn called put on a stack, and then executed in order they were called
     // return causes it to end and starts executing from stack
 // !x items can be arranged in !x ways
