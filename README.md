@@ -1,6 +1,6 @@
 # Essential JavaScript
 
-A collection of classes, tests, and micro-projects used for practicing the essential features of JavaScript. Each secctioon represents one Udemy course, with more detail in the [Acknowledgements](#acknowledgments) section. 
+A collection of classes, tests, and micro-projects used for practicing the essential features of JavaScript. Each section represents one Udemy course, with more detail in the [Acknowledgements](#acknowledgments) section. 
 
 ## Description/Concepts
 
