@@ -1,8 +1,16 @@
 # Essential JavaScript
 
-A collection of classes, tests, and micro-projects used for practicing the essential features of JavaScript. Each section represents one Udemy course, with more detail in the [Acknowledgements](#acknowledgments) section. 
+## Table of contents
+1. [Description](#description)
+2. [Sections](#sections)
+3. [Usage](#usage)
+3. [Acknowledgements](#acknowledgements)
 
-## Concepts/Sections
+## Description
+
+A collection of classes, tests, and micro-projects used for practicing the essential features of JavaScript. Each section represents one completed course, with more detail in the [Acknowledgements](#acknowledgements) section. 
+
+## Sections
 
 * Arrays
     * Collections
@@ -28,23 +36,23 @@ A collection of classes, tests, and micro-projects used for practicing the essen
   * Lexical environment
   * Prototypes
 
-## Getting Started
-
-### Dependencies
+## Usage
 
 * These classes can be run in any JavaScript environment, however Node.js is a convenient tool for executing them.
 * Node.js can be downloaded [here](https://nodejs.org/en/download/package-manager/current).
 
-### Executing a class
 
-* Clone the repository.
-* Download Node.js from the link above; this should make the 'node' command available in a terminal on your machine. 
-* Open a terminal in the directory of the file you would like to execute and run the following: 
+1. Clone the repository to your local machine. 
+```bash
+git clone https://github.com/DavidLapadula/EssentialJavascript.git
+cd essentialjavascript
+```  
+2. Open a terminal in the directory of the file you would like to execute and run the following: 
 ```
 node <filename>
 ```
 
-## Acknowledgments
+## Acknowledgements
 
 Each link below leads to a course for the corresponding section in the codebase. I highly recommend each of them for anyone seeking a thorough understanding of JavaScript. 
 
