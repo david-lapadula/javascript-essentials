@@ -4,7 +4,7 @@
 1. [Description](#description)
 2. [Sections](#sections)
 3. [Usage](#usage)
-3. [Acknowledgements](#acknowledgements)
+4. [Acknowledgements](#acknowledgements)
 
 ## Description
 
