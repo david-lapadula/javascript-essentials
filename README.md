@@ -44,8 +44,8 @@ A collection of classes, tests, and micro-projects used for practicing the essen
 
 1. Clone the repository to your local machine. 
 ```bash
-git clone https://github.com/DavidLapadula/EssentialJavascript.git
-cd essentialjavascript
+git clone https://github.com/DavidLapadula/javascript-essentials.git
+cd javascript-essentials
 ```  
 2. Open a terminal in the directory of the file you would like to execute and run the following: 
 ```
